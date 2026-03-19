@@ -6,7 +6,8 @@ Remote Health has experienced increasingly missed and cancelled consultations, a
 This analysis evaluates patient engagement patterns, identifies repeat offenders, assesses consultation-type performance, examines scheduling trends, and integrates findings with health risk stratification from Project 1 to determine combined clinical and operational exposure.
 
 ## METHODOLOGY
-Consultation data was merged with patient health risk data from Project 1. The following engagement metrics were calculated: Completion Rate, Missed Rate, Cancellation Rate, Engagement Score (2 = Completed, 0 = Cancelled, 0 = Missed), Engagement Segmentation, High-Risk Disengagement Identification.
+Consultation data was merged with patient health risk data from Project 1. 
+The following engagement metrics were calculated: Completion Rate, Missed Rate, Cancellation Rate, Engagement Score (2 = Completed, 0 = Cancelled, 0 = Missed), Engagement Segmentation, High-Risk Disengagement Identification.
 ### Rates were calculated as:
 Rate = Category Count ÷ Total Appointments
 Engagement trends were analyzed by: Patient, Age group. Consultation type, Visit date
@@ -34,12 +35,39 @@ Most consultations scheduled on weekdays were missed or cancelled except Thursda
 This suggests that scheduling timing may influence attendance behavior and should be strategically optimized.
 
 ## HEALTH RISK & ENGAGEMENT INTEGRATION
-A critical insight from combining Project 1 and Patient engagement and missed appointment Analysis:
+A critical insight from combining Patient Health Risk Analysis and Statification Project and Patient engagement and missed appointment Analysis Project:
 All patients who missed appointments are classified as High Health Risk.
 Additionally, most high-risk patients either missed or cancelled their consultations.
 This overlap represents dual exposure:
 •	Increased clinical emergency risk
 •	Reduced operational efficiency
 High-risk disengagement is the most urgent intervention priority.
+
+## ENGAGEMENT SEGMENTATION
+High-Risk Disengaged: P002, P007
+These patients require immediate engagement intervention.
+Fully Engaged: P001, P003, P004, P005
+These patients demonstrate stable adherence to scheduled consultations.
+
+## BUSINESS IMPLICATIONS
+Current engagement patterns indicate:
+•	Revenue leakage due to no-shows
+•	Underutilized provider capacity
+•	Elevated risk for high-risk patients
+•	Ineffective chat consultation performance
+•	Scheduling gaps for certain patients
+Without intervention, these trends may increase emergency events and long-term care costs.
+
+## RECOMMENDATIONS
+1.	Implement risk-based reminder system (SMS + phone calls for high-risk patients).
+2.	Review and optimize chat consultation processes to improve reliability.
+3.	Establish repeat offender protocol with mandatory confirmation after missed visits.
+4.	Adjust weekday scheduling strategy or require reconfirmation.
+5.	Integrate health risk and engagement metrics into a unified monitoring dashboard for proactive care management.
+
+
+
+
+
 
 
