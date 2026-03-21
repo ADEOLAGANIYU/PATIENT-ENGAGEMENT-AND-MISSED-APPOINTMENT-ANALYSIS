@@ -12,6 +12,9 @@ The following engagement metrics were calculated: Completion Rate, Missed Rate, 
 Rate = Category Count ÷ Total Appointments
 Engagement trends were analyzed by: Patient, Age group. Consultation type, Visit date
 
+## TOOL USED
+PowerBI
+
 <img width="975" height="552" alt="image" src="https://github.com/user-attachments/assets/3c8013d0-c3f4-412d-a549-5257b8f49b18" />
 
 ## EXECUTIVE SUMMARY
@@ -65,6 +68,9 @@ Without intervention, these trends may increase emergency events and long-term c
 4.	Adjust weekday scheduling strategy or require reconfirmation.
 5.	Integrate health risk and engagement metrics into a unified monitoring dashboard for proactive care management.
 
+## CONCLUSION
+This analysis demonstrates that disengagement is concentrated among high-risk patients, amplifying both clinical and operational exposure. With a 43% missed rate and complete failure of chat consultations, Remote Health must adopt targeted, data-driven engagement strategies.
+By integrating health risk stratification with behavioral analytics, Remote Health can improve care continuity, reduce emergency risk, enhance provider efficiency, and strengthen revenue stability.
 
 
 
